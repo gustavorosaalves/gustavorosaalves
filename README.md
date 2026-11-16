@@ -16,13 +16,16 @@ Opa! Eu sou Gustavo Rosa Alves 👋
 
 📚 Atualmente estudando:
 
-- React
-- TypeScript
 - Desenvolvimento Backend
 
-🎯 Objetivo:
+🎯 Objetivos:
 
 Busco constantemente aprimorar meus conhecimentos em programação e desenvolver projetos práticos, evoluindo como desenvolvedor de software.
+
+🌎 Idiomas:
+
+- Inglês: Intermediário
+- Português: Nativo
 
 📫 Contatos:
 
