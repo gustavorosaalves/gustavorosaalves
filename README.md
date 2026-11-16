@@ -24,8 +24,8 @@ Busco constantemente aprimorar meus conhecimentos em programação e desenvolver
 
 🌎 Idiomas:
 
-- Inglês: Intermediário
 - Português: Nativo
+- Inglês: Intermediário
 
 📫 Contatos:
 
