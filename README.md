@@ -1,16 +1,31 @@
-## Hi there 👋
+Opa! Eu sou Gustavo Rosa Alves 👋
 
-<!--
-**gustavorosaalves/gustavorosaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação e Comunicação na FAETERJ Petrópolis.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor de Software em formação, interessado em desenvolvimento de aplicações e programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e ferramentas:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- MySQL
+- Git e GitHub
+
+📚 Atualmente estudando:
+
+- React
+- TypeScript
+- Desenvolvimento Backend
+
+🎯 Objetivo:
+
+Busco constantemente aprimorar meus conhecimentos em programação e desenvolver projetos práticos, evoluindo como desenvolvedor de software.
+
+📫 Contato:
+
+- Email: gustavorosaalves1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gustavo-rosa-alves
+- GitHub: https://github.com/gustavorosaalves
