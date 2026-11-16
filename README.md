@@ -24,7 +24,7 @@ Opa! Eu sou Gustavo Rosa Alves 👋
 
 Busco constantemente aprimorar meus conhecimentos em programação e desenvolver projetos práticos, evoluindo como desenvolvedor de software.
 
-📫 Contato:
+📫 Contatos:
 
 - Email: gustavorosaalves1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gustavo-rosa-alves
