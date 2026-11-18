@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,git,github,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,git,github,cpp,python" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ### 📚 Atualmente estudando
 
-* Desenvolvimento Backend
+- Desenvolvimento Backend
 
 ---
 
@@ -30,13 +30,13 @@ Busco constantemente aprimorar meus conhecimentos em programação e desenvolver
 
 ### 🌐 Idiomas
 
-* Português: Nativo
-* Inglês: Intermediário
+- Português: Nativo
+- Inglês: Intermediário
 
 ---
 
 ### 📫 Contatos
 
-* **Email:** gustavorosaalves1@gmail.com
-* **LinkedIn:** www.linkedin.com/in/gustavo-rosa-alves
-* **GitHub:** https://github.com/gustavorosaalves
+- **Email:** gustavorosaalves1@gmail.com
+- **LinkedIn:** www.linkedin.com/in/gustavo-rosa-alves
+- **GitHub:** https://github.com/gustavorosaalves
