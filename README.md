@@ -6,42 +6,37 @@
 
 ---
 
-## 🚀 Tecnologias e ferramentas
+### 🚀 Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,git,python,c,cpp" />
+  </a>
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+### 📚 Atualmente estudando
 
-- Desenvolvimento Backend
+* Desenvolvimento Backend
 
 ---
 
-## 🎯 Objetivos
+### 🎯 Objetivos
 
 Busco constantemente aprimorar meus conhecimentos em programação e desenvolver projetos práticos, evoluindo como desenvolvedor de software.
 
 ---
 
-## 🌎 Idiomas
+### 🌐 Idiomas
 
-- **Português:** Nativo
-- **Inglês:** Intermediário
+* Português: Nativo
+* Inglês: Intermediário
 
 ---
 
-## 📫 Contatos
+### 📫 Contatos
 
-- **Email:** [gustavorosaalves1@gmail.com](mailto:gustavorosaalves1@gmail.com)
-- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/gustavo-rosa-alves)
-- **GitHub:** [Meu GitHub](https://github.com/gustavorosaalves)
+* **Email:** gustavorosaalves1@gmail.com
+* **LinkedIn:** [Meu LinkedIn](seu-link-do-linkedin-aqui)
+* **GitHub:** [Meu GitHub](https://github.com/gustavorosaalves)
