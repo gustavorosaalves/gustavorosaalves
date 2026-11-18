@@ -38,5 +38,5 @@ Busco constantemente aprimorar meus conhecimentos em programação e desenvolver
 ### 📫 Contatos
 
 * **Email:** gustavorosaalves1@gmail.com
-* **LinkedIn:** [Meu LinkedIn](seu-link-do-linkedin-aqui)
+* **LinkedIn:** [Meu LinkedIn](www.linkedin.com/in/gustavo-rosa-alves)
 * **GitHub:** [Meu GitHub](https://github.com/gustavorosaalves)
